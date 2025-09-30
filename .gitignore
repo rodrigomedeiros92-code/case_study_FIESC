@@ -1,0 +1,4 @@
+*.log
+case_study/
+temp/
+config.ini

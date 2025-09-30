@@ -1,0 +1,6 @@
+# To ensure better scalability of the project in the future, specify the version of the libraries
+matplotlib
+pandas
+seaborn
+scikit-learn
+xgboost
